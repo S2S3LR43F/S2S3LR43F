@@ -6,7 +6,7 @@
 ## yo, i'm a 15 y old student from Brazil, i really enjoy coding and im studying to work with it on future!
 
 - 🔭 I have a youtube channel where i post some game highlights and stuff [YouTube][youtube]!
-- 🌱 I’m currently learning Java and Python
+- 🌱 I currently know CSS, JS, C++, C# Python and Java
 - ⚡ Fun fact: I started coding without any classes and i'm trying to learn it from myself!
 
 ### Connect with me:
